@@ -1,0 +1,33 @@
+{
+  "name": "lab-13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyobtamir-401n16/lab-13.git"
+  },
+  "author": "Eyob Tamir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyobtamir-401n16/lab-13/issues"
+  },
+  "homepage": "https://github.com/eyobtamir-401n16/lab-13#readme",
+  "dependencies": {
+    "@code-fellows/supergoose": "^1.0.2",
+    "bcrypt": "^4.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-swagger-generator": "^1.1.17",
+    "mongoose": "^5.9.10",
+    "morgan": "^1.10.0"
+  }
+}
